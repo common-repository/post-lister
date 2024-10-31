@@ -1,0 +1,73 @@
+<block>
+	<parameters>
+		<parameter name="title" type="String" />
+		<parameter name="author" type="Integer" />
+		<parameter name="author_name" type="String" />
+		<parameter name="author_email" type="String" />
+		<parameter name="post" type="Integer" />
+		<parameter name="order" type="String" default-value="desc" field-type="select">
+			<option name="desc" />
+			<option name="asc" />
+		</parameter>
+		<parameter name="orderby" type="String" default-value="comment_date" field-type="select">
+			<option name="comment_date" />
+			<option name="comment_author" />
+			<option name="comment_post_ID" />
+			<option name="rand" />
+		</parameter>
+		<parameter name="offset" type="Integer" />
+		<parameter name="limit" type="Integer" default-value="5" />
+		<parameter name="beforelist" type="String" />
+		<parameter name="afterlist" type="String" />
+		<parameter name="beforeitem" type="String" />
+		<parameter name="afteritem" type="String" />
+		<parameter name="showauthor" type="Boolean" default-value="false" />
+		<parameter name="showdate" type="Boolean" default-value="false" />
+		<parameter name="showtime" type="Boolean" default-value="false" />		
+		<parameter name="showauthoravatar" type="String" default-value="none" field-type="select">
+			<option name="none" />
+			<option name="32" />
+			<option name="64" />
+			<option name="96" />
+			<option name="128" />
+		</parameter>
+		<parameter name="showtext" type="String" default-value="none" field-type="select">
+			<option name="none" />
+			<option name="25" />
+			<option name="50" />
+			<option name="75" />
+			<option name="100" />
+			<option name="150" />
+			<option name="200" />
+			<option name="300" />
+			<option name="all" />
+		</parameter>
+	</parameters>
+	
+	<widget name="clist" multiple="true" form-columns="2">
+		<set name="global">
+			<parameter name="title" />
+			<parameter name="limit" />
+		</set>
+		<set name="sort">
+			<parameter name="order" />
+			<parameter name="orderby" />
+		</set>
+		<set name="filter">
+			<parameter name="author" />
+			<parameter name="author_name" />
+			<parameter name="author_email" />
+			<parameter name="post" />
+		</set>		
+		<set name="display">
+			<parameter name="showauthor" />			
+			<parameter name="showdate" />
+			<parameter name="showtime" />
+			<parameter name="showauthoravatar" />
+			<parameter name="showtext" />
+		</set>
+	</widget>
+	
+	<shortcode name="clist">
+	</shortcode>
+</block>

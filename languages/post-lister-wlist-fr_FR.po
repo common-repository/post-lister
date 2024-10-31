@@ -1,0 +1,211 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Post lister - wlist\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-10-20 17:43+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Darathor <darathor@free.fr>\n"
+"Language-Team: Darathor <darathor@free.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+
+#
+# This file is automatically regenerated, so please do not edit it!
+# To add your own translations, add them in the p.pot file.
+#
+# ############################################################################
+# 							Widget global texts								#
+# ############################################################################
+#: ../generated/WlistBlockBase.php
+msgid "wlist-widget-description"
+msgstr "Une liste d'articles de ce blog sélectionnés selon divers critères"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-widget-name"
+msgstr "Liste (articles)"
+
+# ############################################################################
+# 								Widget form									#
+# ############################################################################
+#
+# Set "global".
+#
+#: ../generated/WlistBlockBase.php
+msgid "wlist-set-global-label"
+msgstr "Préférences globales"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-title-label"
+msgstr "Title"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-limit-label"
+msgstr "Nombre d'articles à lister"
+
+#
+# Set "sort".
+#
+#: ../generated/WlistBlockBase.php
+msgid "wlist-set-sort-label"
+msgstr "Tri"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-order-label"
+msgstr "Ordre"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-order-option-desc-label"
+msgstr "Décroissant"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-order-option-asc-label"
+msgstr "Croissant"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-orderby-label"
+msgstr "Trier par"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-orderby-option-date-label"
+msgstr "Date de publication"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-orderby-option-author-label"
+msgstr "Auteur"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-orderby-option-title-label"
+msgstr "Titre"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-orderby-option-modified-label"
+msgstr "Dernière modification"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-orderby-option-rand-label"
+msgstr "Aléatoire"
+
+#
+# Set "filter".
+#
+#: ../generated/WlistBlockBase.php
+msgid "wlist-set-filter-label"
+msgstr "Filtrage"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-cat-label"
+msgstr "Catégorie (id)"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-category_name-label"
+msgstr "Catégorie (nom)"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-tag-label"
+msgstr "Mot-clef"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-author-label"
+msgstr "Auteur (id)"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-author_name-label"
+msgstr "Auteur (nom)"
+
+#
+# Set "display".
+#
+#: ../generated/WlistBlockBase.php
+msgid "wlist-set-display-label"
+msgstr "Affichage"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-showauthor-label"
+msgstr "Afficher l'auteur"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-showauthoravatar-label"
+msgstr "Affichage de l'avatar de l'auteur"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-showauthoravatar-option-none-label"
+msgstr "Ne pas l'afficher"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-showauthoravatar-option-32-label"
+msgstr "L'afficher en 32x32"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-showauthoravatar-option-64-label"
+msgstr "L'afficher en 64x64"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-showauthoravatar-option-96-label"
+msgstr "L'afficher en 96x96"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-showauthoravatar-option-128-label"
+msgstr "L'afficher en 128x128"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-showdate-label"
+msgstr "Afficher la date"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-showtime-label"
+msgstr "Afficher l'heure"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-showcommentcount-label"
+msgstr "Afficher le nombre de commentaires"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-showtext-label"
+msgstr "Afficher le texte de l'article"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-showtext-option-none-label"
+msgstr "Ne pas l'afficher"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-showtext-option-25-label"
+msgstr "Afficher les 25 premiers caractères"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-showtext-option-50-label"
+msgstr "Afficher les 50 premiers caractères"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-showtext-option-75-label"
+msgstr "Afficher les 75 premiers caractères"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-showtext-option-100-label"
+msgstr "Afficher les 100 premiers caractères"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-showtext-option-150-label"
+msgstr "Afficher les 150 premiers caractères"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-showtext-option-200-label"
+msgstr "Afficher les 200 premiers caractères"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-showtext-option-300-label"
+msgstr "Afficher les 300 premiers caractères"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-showtext-option-all-label"
+msgstr "Afficher l'intégralité"
+
+#: ../generated/WlistBlockBase.php
+msgid "wlist-parameter-showtextlimit-label"
+msgstr "Nombre maximum de caractères"
+
+#~ msgid "wlist-parameter-orderby-option-ID-label"
+#~ msgstr "Identifiant"
+

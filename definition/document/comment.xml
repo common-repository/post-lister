@@ -1,0 +1,13 @@
+<document>
+	<properties>
+		<property name="id" type="Integer" />
+		<property name="postId" type="Integer" />
+		<property name="date" type="String" />
+		<property name="content" type="String" />
+		<property name="karma" type="Integer" />
+		<property name="approved" type="String" />
+		<property name="agent" type="String" />
+		<property name="type" type="String" />
+		<property name="author" type="AuthorDocument" />
+	</properties>
+</document>

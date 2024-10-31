@@ -1,0 +1,9 @@
+<document>
+	<properties>
+		<property name="id" type="Integer" />
+		<property name="name" type="String" />
+		<property name="email" type="String" />
+		<property name="url" type="String" />
+		<property name="ip" type="String" />
+	</properties>
+</document>

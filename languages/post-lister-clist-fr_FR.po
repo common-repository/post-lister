@@ -1,0 +1,201 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Post lister - clist\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-10-20 17:43+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Darathor <darathor@free.fr>\n"
+"Language-Team: Darathor <darathor@free.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+
+#
+# This file is automatically regenerated, so please do not edit it!
+# To add your own translations, add them in the p.pot file.
+#
+# ############################################################################
+# 							Widget global texts								#
+# ############################################################################
+#: ../generated/ClistBlockBase.php
+msgid "clist-widget-description"
+msgstr "Une liste de commentaires de ce blog sélectionnés selon divers critères"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-widget-name"
+msgstr "Liste (commentaires)"
+
+# ############################################################################
+# 								Widget form									#
+# ############################################################################
+#
+# Set "global".
+#
+#: ../generated/ClistBlockBase.php
+msgid "clist-set-global-label"
+msgstr "Préférences globales"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-title-label"
+msgstr "Titre"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-limit-label"
+msgstr "Nombre de commentaires à lister"
+
+#
+# Set "sort".
+#
+#: ../generated/ClistBlockBase.php
+msgid "clist-set-sort-label"
+msgstr "Tri"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-order-label"
+msgstr "Ordre"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-order-option-desc-label"
+msgstr "Décroissant"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-order-option-asc-label"
+msgstr "Croissant"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-orderby-label"
+msgstr "Trier par"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-orderby-option-comment_date-label"
+msgstr "Date"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-orderby-option-comment_author-label"
+msgstr "Auteur"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-orderby-option-comment_post_ID-label"
+msgstr "Article associé"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-orderby-option-rand-label"
+msgstr "Aléatoire"
+
+#
+# Set "filter".
+#
+#: ../generated/ClistBlockBase.php
+msgid "clist-set-filter-label"
+msgstr "Filtrage"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-author-label"
+msgstr "Auteur (id)"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-author_name-label"
+msgstr "Auteur (nom)"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-author_email-label"
+msgstr "Auteur (email)"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-post-label"
+msgstr "Article"
+
+#
+# Set "display".
+#
+#: ../generated/ClistBlockBase.php
+msgid "clist-set-display-label"
+msgstr "Affichage"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showauthor-label"
+msgstr "Afficher l'auteur"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showdate-label"
+msgstr "Afficher la date"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showtime-label"
+msgstr "Afficher l'heure"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showauthoravatar-label"
+msgstr "Affichage de l'avatar de l'auteur"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showauthoravatar-option-none-label"
+msgstr "Ne pas l'afficher"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showauthoravatar-option-32-label"
+msgstr "L'afficher en 32x32"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showauthoravatar-option-64-label"
+msgstr "L'afficher en 64x64"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showauthoravatar-option-96-label"
+msgstr "L'afficher en 96x96"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showauthoravatar-option-128-label"
+msgstr "L'afficher en 128x128"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showtext-label"
+msgstr "Affichage du contenu"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showtext-option-none-label"
+msgstr "Ne pas l'afficher"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showtext-option-25-label"
+msgstr "Afficher les 25 premiers caractères"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showtext-option-50-label"
+msgstr "Afficher les 50 premiers caractères"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showtext-option-75-label"
+msgstr "Afficher les 75 premiers caractères"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showtext-option-100-label"
+msgstr "Afficher les 100 premiers caractères"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showtext-option-150-label"
+msgstr "Afficher les 150 premiers caractères"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showtext-option-200-label"
+msgstr "Afficher les 200 premiers caractères"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showtext-option-300-label"
+msgstr "Afficher les 300 premiers caractères"
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showtext-option-all-label"
+msgstr "Afficher l'intégralité"
+
+#~ msgid "clist-parameter-showtextlimit-label"
+#~ msgstr "Nombre maximum de caractères"
+#~ msgid "clist-parameter-showauthoravatar-option-left-label"
+#~ msgstr "L'afficher à gauche"
+#~ msgid "clist-parameter-showauthoravatar-option-right-label"
+#~ msgstr "L'afficher à droite"
+#~ msgid "clist-parameter-showauthoravatar-option-center-label"
+#~ msgstr "L'afficher centré"
+

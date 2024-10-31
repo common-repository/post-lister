@@ -1,0 +1,201 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-10-20 17:43+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#
+# This file is automatically regenerated, so please do not edit it!
+# To add your own translations, add them in the p.pot file.
+# 
+
+#############################################################################
+# 							Widget global texts								#
+#############################################################################
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-widget-description"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-widget-name"
+msgstr ""
+
+
+#############################################################################
+# 								Widget form									#
+#############################################################################
+
+#
+# Set "global".
+#
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-set-global-label"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-title-label"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-limit-label"
+msgstr ""
+
+
+#
+# Set "sort".
+#
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-set-sort-label"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-order-label"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-order-option-desc-label"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-order-option-asc-label"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-orderby-label"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-orderby-option-comment_date-label"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-orderby-option-comment_author-label"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-orderby-option-comment_post_ID-label"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-orderby-option-rand-label"
+msgstr ""
+
+
+#
+# Set "filter".
+#
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-set-filter-label"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-author-label"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-author_name-label"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-author_email-label"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-post-label"
+msgstr ""
+
+
+#
+# Set "display".
+#
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-set-display-label"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showauthor-label"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showdate-label"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showtime-label"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showauthoravatar-label"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showauthoravatar-option-none-label"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showauthoravatar-option-32-label"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showauthoravatar-option-64-label"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showauthoravatar-option-96-label"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showauthoravatar-option-128-label"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showtext-label"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showtext-option-none-label"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showtext-option-25-label"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showtext-option-50-label"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showtext-option-75-label"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showtext-option-100-label"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showtext-option-150-label"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showtext-option-200-label"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showtext-option-300-label"
+msgstr ""
+
+#: ../generated/ClistBlockBase.php
+msgid "clist-parameter-showtext-option-all-label"
+msgstr ""
+
